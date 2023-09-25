@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786695960666",
+    "project_id": "teamhusky-a038c",
+    "storage_bucket": "teamhusky-a038c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786695960666:android:c27734a4b18bd92f8a8063",
+        "android_client_info": {
+          "package_name": "com.example.teamhusky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786695960666-c5vsqiqcilnjcnvidve9fk331ipgp2kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFweP5RnnLsy8rv982RoVY8Rp7ZzHcHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786695960666-c5vsqiqcilnjcnvidve9fk331ipgp2kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
